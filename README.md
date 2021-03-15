@@ -1,4 +1,10 @@
-# Budget
+# Budget Calculator
+
+# Get Started
+You need Angular installed on your PC for running it. 
+1-) Clone the repo.
+2-) Run ' npm install ' on terminal.
+3-) Run ' ng serve ' on terminal and that's it.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
 
